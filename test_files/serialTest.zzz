@@ -1,0 +1,28 @@
+
+integer: 1002
+float: 10.5
+bool: true
+int vector:
+  : 42
+  : 100
+  : 1000
+  : -4
+
+Purchase:
+  Name        : "John Smith"
+  Product Num : 20223
+  Price       : 23.95 : USD
+
+  Ship To:
+    Name   : "Jane Smith"
+    Address : "123 Maple Street"
+    City   : "Pretendville"
+    State  : "NY"
+    Zip    : 12345
+
+  Bill To:
+    Name   : "John Smith"
+    Address : "123 Maple Street"
+    City   : "Pretendville"
+    State  : "NY"
+    Zip    : 12345

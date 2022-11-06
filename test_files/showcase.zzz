@@ -1,0 +1,44 @@
+
+
+
+Purchases:
+
+  : Name           : "John Smith"
+    Product Number : 20223
+    Price          : "23.95" : USD
+
+    Ship To:
+      Name   : "Jane Smith"
+      Adress : "123 Maple Street"
+      City   : "Pretendville"
+      State  : "NY"
+      Zip    : 12345
+    
+    Bill To:
+      Name   : "John Smith"
+      Adress : "123 Maple Street"
+      City   : "Pretendville"
+      State  : "NY"
+      Zip    : 12345
+
+
+
+  : Name           : "Alice Brown"
+    Product Number : 54321
+    Price          : "199.95" : USD
+
+    Ship To:
+      Name   : "Bob Brown"
+      Adress : "456 Oak Lane"
+      City   : "Pretendville"
+      State  : "HI"
+      Zip    : 98999
+    
+    Bill To:
+      Name   : "Alice Brown"
+      Adress : "456 Oak Lane"
+      City   : "Pretendville"
+      State  : "HI"
+      Zip    : 98999
+
+
